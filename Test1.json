@@ -1,0 +1,8 @@
+{
+    "architecture": "x86",
+    "mode": "x32",
+    "instructions": [
+        "add eax, ecx"
+    ],
+    "endian": "little"
+}
